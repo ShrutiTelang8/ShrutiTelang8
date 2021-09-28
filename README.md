@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShrutiTelang8
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing MS in Data Analytics from Northeastern University, Boston, MA
-- 💞️ I’m looking to collaborate with people from similar background on Data Science projects (Finance|Healthcare sector preferred)
+- 👀 I’m a Data Science enthusiast
+- 🌱 I’m currently pursuing M.S. in Data Analytics from Northeastern University, Boston, MA
+- 💞️ I’m looking to collaborate with people from similar background on Data Science projects (Finance | Healthcare preferred)
 
 
 <!---
