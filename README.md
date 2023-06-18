@@ -1,4 +1,4 @@
-👋 Hi, I’m @ShrutiTelang8
+👋 Hi, I’m Shruti
 
 👩🏻‍💻 I’m a Data Scientist 
 
