@@ -6,7 +6,7 @@
 
 🔬 My focus lies in leveraging statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
 
-🌐 Committed to staying up-to-date with the latest advancements in the field of data science, I continuously expand my knowledge through learning and professional development.
+🌐 Committed to staying up-to-date with the latest advancements in the field of data science, I am continuously expanding my knowledge through learning and professional development.
 
 📫 Let's connect! Feel free to reach out for collaborations, discussions, or any exciting data science opportunities.
 
