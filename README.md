@@ -2,7 +2,9 @@
 
 👩🏻‍💻 I’m a Data Scientist 
 
-🔬 My focus lies in leveraging decision making in Businesses through statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights
+💼 Experienced in data consulting, I have worked with clients to provide data-driven insights that have facilited strategic decision-making and optimized business processes
+
+🔬 My focus lies in leveraging statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
 
 🌐 Committed to staying up-to-date with the latest advancements in the field of data science, I continuously expand my knowledge through learning and professional development.
 
