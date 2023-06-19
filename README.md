@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m a Data Scientist 
 
-💼 Experienced in data consulting, I have worked with clients to provide data-driven insights that have facilitated strategic decision-making and optimized business processes.
+💼 Experienced in data consulting, I have worked with clients from sectors such as quick service restuarants, retail, agriculture etc to provide data-driven insights that have facilitated strategic decision-making and optimized business processes.
 
 🔬 My focus lies in leveraging statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
 
