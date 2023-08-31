@@ -3,7 +3,7 @@
 
 👩🏻‍💻 I’m a Data Scientist who truly believes that every byte has a tale to tell!
 
-💼 I bring experience in data consulting, collaborating with clients from various sectors including quick-service restaurants, retail, agriculture, and more. I provide data-driven insights that foster strategic decision-making and optimize business processes.
+💼 I bring experience in data consulting, collaborating with clients from various sectors including packaging, nutrition, quick-service restaurants, retail, agriculture, and more. I provide data-driven insights that foster strategic decision-making and optimize business processes.
 
 🔬 My expertise centers around harnessing statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
 
