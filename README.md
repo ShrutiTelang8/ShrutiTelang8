@@ -1,15 +1,15 @@
+
 👋 Hi, I’m Shruti
 
-👩🏻‍💻 I’m a Data Scientist 
+👩🏻‍💻 I’m a Data Scientist who truly believes that every byte has a tale to tell!
 
-💼 Experienced in data consulting, I have worked with clients from sectors such as quick service restuarants, retail, agriculture etc to provide data-driven insights that have facilitated strategic decision-making and optimized business processes.
+💼 I bring experience in data consulting, collaborating with clients from various sectors including quick-service restaurants, retail, agriculture, and more. I provide data-driven insights that foster strategic decision-making and optimize business processes.
 
-🔬 My focus lies in leveraging statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
+🔬 My expertise centers around harnessing statistical modeling and predictive analytics to uncover patterns, trends, and valuable insights.
 
-🌐 Committed to continuous learning and professional growth, I stay updated with the latest advancements in data science.
+🌐 Committed to ongoing learning and professional growth, I continuously stay updated with the latest advancements in the realm of data science.
 
 📫 Let's connect! Feel free to reach out for collaborations, discussions, or any exciting data science opportunities.
-
 
 
 <!---
